@@ -10,10 +10,11 @@ To write a C program to implement Tower of Hanoi
 4. Recursively move disks: move n-1 disks to auxiliary, move 1 disk to destination, move n-1 disks from auxiliary to destination.
 5. Stop.
 ## Program:
-
+```
 Program to to count the number of digits in an integer
 Developed by: MAHALAKSHMI R
 RegisterNumber: 212223230116
+```
 
 ```
 public class TowerOfHanoi {
